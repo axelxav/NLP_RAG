@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 import sys
 from langchain_community.document_loaders import UnstructuredPDFLoader
 from langchain_community.embeddings import OllamaEmbeddings
